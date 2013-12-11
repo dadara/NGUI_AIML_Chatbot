@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+   <item name="aimldirectory" value="aiml"/>
+   <item name="configdirectory" value="config"/>
+   <item name="logdirectory" value="logs"/>
+   <item name="splittersfile" value="Splitters.xml"/>
+   <item name="person2substitutionsfile" value="Person2Substitutions.xml"/>
+   <item name="personsubstitutionsfile" value="PersonSubstitutions.xml"/>  
+   <item name="gendersubstitutionsfile" value="GenderSubstitutions.xml"/>
+   <item name="defaultpredicates" value="DefaultPredicates.xml"/>
+   <item name="substitutionsfile" value="Substitutions.xml"/>
+   <item name="maxlogbuffersize" value="64"/> 
+   <item name="stripperregex" value="[^0-9a-zA-Z]"/> 
+   <item name="version" value="1.0"/> 
+   <item name="name" value="Rheika"/> 
+   <item name="botmaster" value="Muha"/> 
+   <item name="author" value="Nicholas H.Tollervey"/> 
+   <item name="location" value="Vienna"/> 
+   <item name="gender" value="-1"/> 
+   <item name="birthday" value="2006/10/08"/>
+   <item name="birthplace" value="Towcester, Northamptonshire, UK"/> 
+   <item name="website" value="http://sourceforge.net/projects/aimlbot"/>
+   <item name="adminemail" value=""/>
+   <item name="islogging" value="false"/> 
+   <item name="willcallhome" value="false"/>
+   <item name="timeout" value="3000"/>
+   <item name="timeoutmessage" value="ERROR: The request has timed out."/>
+   <item name="culture" value="en-US"/>
+</document>
